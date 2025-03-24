@@ -1,1 +1,1 @@
-# magnetic-api
+# magnetic-api lucky-seven
